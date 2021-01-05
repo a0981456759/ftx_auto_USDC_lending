@@ -25,12 +25,15 @@ The tool allows you to automatically lending your USDC and get rewards every min
     >> INPUT the FTX_MAIN_ACCOUNT_API_KEY
     >> INPUT the FTX_MAIN__ACCOUNT_API_SECRET
     >> INPUT the FTX_SUBACCOUNT_NAME
+    >> INPUT the COIN_NAME
 
 2.EXE File
 
     >> INPUT the FTX_MAIN_ACCOUNT_API_KEY
     >> INPUT the FTX_MAIN__ACCOUNT_API_SECRET
     >> INPUT the FTX_SUBACCOUNT_NAME
+    >> INPUT the COIN_NAME
+    
 
     
 ## Contributor
