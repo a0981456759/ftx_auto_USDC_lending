@@ -1,3 +1,5 @@
 """
-An UNOFFICIAL Python tool for SRM auto-staking on FTX with support for SRM/SRM_LOCKED/MSRM/MSRM_LOCKED. The tool allows you to automatically stake your staking rewards every hour.
+An UNOFFICIAL Python tool for USDC auto-lending on FTX-exchange.
+
+The tool allows you to automatically lending your USDC and get rewards every minute.at(":50").
 """
