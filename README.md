@@ -15,7 +15,7 @@ The tool allows you to automatically lending your USDC and get rewards every min
 
     $ git clone https://github.com/a0981456759/FTX_USD_auto_lending.git
 
-2.Download the [exe file](https://github.com/a0981456759/FTX_USD_auto_lending/tree/main/Auto-Lending/dist/USD.exe)
+2.Download the [exe file](https://github.com/a0981456759/ftx_auto_USDC_lending/tree/main/dist/USD.exe)
     
 ## Quickstart
 
