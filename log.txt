@@ -1,0 +1,114 @@
+[20210105 02:48:23 INFO    ] API Set Up Success
+[20210105 02:48:23 INFO    ] Lending the USD
+[20210105 02:48:23 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:23 INFO    ] Lending the USD
+[20210105 02:48:24 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:24 INFO    ] Lending the USD
+[20210105 02:48:25 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:25 INFO    ] Lending the USD
+[20210105 02:48:25 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:25 INFO    ] Lending the USD
+[20210105 02:48:26 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:26 INFO    ] Lending the USD
+[20210105 02:48:26 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:26 INFO    ] Lending the USD
+[20210105 02:48:27 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:27 INFO    ] Lending the USD
+[20210105 02:48:28 INFO    ] Coin: USD Stake: 364.1752528
+[20210105 02:48:28 INFO    ] Lending the USD
+[20210105 02:48:29 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:29 INFO    ] Lending the USD
+[20210105 02:48:29 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:29 INFO    ] Lending the USD
+[20210105 02:48:31 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:31 INFO    ] Lending the USD
+[20210105 02:48:31 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:31 INFO    ] Lending the USD
+[20210105 02:48:32 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:32 INFO    ] Lending the USD
+[20210105 02:48:33 INFO    ] Coin: USD Stake: 364.16864804
+[20210105 02:48:33 INFO    ] Lending the USD
+[20210105 02:48:33 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:33 INFO    ] Lending the USD
+[20210105 02:48:34 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:34 INFO    ] Lending the USD
+[20210105 02:48:35 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:35 INFO    ] Lending the USD
+[20210105 02:48:36 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:36 INFO    ] Lending the USD
+[20210105 02:48:37 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:37 INFO    ] Lending the USD
+[20210105 02:48:38 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:38 INFO    ] Lending the USD
+[20210105 02:48:38 INFO    ] Coin: USD Stake: 364.15908543
+[20210105 02:48:38 INFO    ] Lending the USD
+[20210105 02:48:39 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:39 INFO    ] Lending the USD
+[20210105 02:48:40 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:40 INFO    ] Lending the USD
+[20210105 02:48:40 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:40 INFO    ] Lending the USD
+[20210105 02:48:41 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:41 INFO    ] Lending the USD
+[20210105 02:48:41 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:41 INFO    ] Lending the USD
+[20210105 02:48:42 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:42 INFO    ] Lending the USD
+[20210105 02:48:43 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:43 INFO    ] Lending the USD
+[20210105 02:48:43 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:43 INFO    ] Lending the USD
+[20210105 02:48:44 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:44 INFO    ] Lending the USD
+[20210105 02:48:44 INFO    ] Coin: USD Stake: 364.15979509
+[20210105 02:48:44 INFO    ] Lending the USD
+[20210105 02:48:45 INFO    ] Coin: USD Stake: 364.1493665
+[20210105 02:48:45 INFO    ] Lending the USD
+[20210105 02:48:46 INFO    ] Coin: USD Stake: 364.1493665
+[20210105 02:48:46 INFO    ] Lending the USD
+[20210105 02:48:46 INFO    ] Coin: USD Stake: 364.1493665
+[20210105 02:48:46 INFO    ] Lending the USD
+[20210105 02:48:47 INFO    ] Coin: USD Stake: 364.1493665
+[20210105 02:48:47 INFO    ] Lending the USD
+[20210105 02:50:52 INFO    ] API Set Up Success
+[20210105 02:50:53 INFO    ] Coin: USD Stake: 364.14416044
+[20210105 02:58:02 INFO    ] API Set Up Success
+[20210105 02:58:02 INFO    ] Coin: USD Lending: 364.21684963
+[20210105 02:59:35 INFO    ] API Set Up Success
+[20210105 02:59:35 INFO    ] Coin: USD Lending: 364.26020695
+[20210105 03:00:19 INFO    ] API Set Up Success
+[20210105 03:00:20 INFO    ] Coin: USD Lending: 364.26546658
+[20210105 03:00:36 INFO    ] API Set Up Success
+[20210105 03:00:37 INFO    ] Coin: USD Lending: 364.28551014
+[20210105 03:01:23 INFO    ] API Set Up Success
+[20210105 03:01:23 INFO    ] Coin: USD Lending: 364.30687232
+[20210105 03:04:06 INFO    ] API Set Up Success
+[20210105 03:04:07 INFO    ] Coin: USD Lending: 364.33338538
+[20210105 03:04:58 INFO    ] API Set Up Success
+[20210105 03:04:59 INFO    ] Coin: USD Lending: 364.33221441
+[20210105 03:05:16 INFO    ] API Set Up Success
+[20210105 03:05:16 INFO    ] Coin: USD Lending: 364.33345527
+[20210105 03:06:24 INFO    ] API Set Up Success
+[20210105 03:06:25 INFO    ] Coin: USD Lending: 364.32308181
+[20210105 03:06:39 INFO    ] API Set Up Success
+[20210105 03:06:39 INFO    ] Coin: USD Lending: 364
+[20210105 03:07:00 INFO    ] API Set Up Success
+[20210105 03:07:01 INFO    ] Coin: USD Lending: 364
+[20210105 12:55:12 INFO    ] API Set Up Success
+[20210105 12:55:13 INFO    ] Coin: USD Lending: 331
+[20210105 15:24:31 INFO    ] Running job Every 0.5 minutes do lending() (last run: [never], next run: 2021-01-05 15:24:31)
+[20210105 15:25:29 INFO    ] Running job Every 0.5 minutes do lending() (last run: [never], next run: 2021-01-05 15:25:29)
+[20210105 15:28:36 INFO    ] Running job Every 0.5 minutes do lending(<FTX.client.Client object at 0x107fab588>) (last run: [never], next run: 2021-01-05 15:28:36)
+[20210105 15:29:07 INFO    ] Running job Every 0.5 minutes do lending(<FTX.client.Client object at 0x107fab588>) (last run: 2021-01-05 15:28:37, next run: 2021-01-05 15:29:07)
+[20210105 15:29:38 INFO    ] Running job Every 0.5 minutes do lending(<FTX.client.Client object at 0x107fab588>) (last run: 2021-01-05 15:29:07, next run: 2021-01-05 15:29:37)
+[20210105 15:30:08 INFO    ] Running job Every 0.5 minutes do lending(<FTX.client.Client object at 0x107fab588>) (last run: 2021-01-05 15:29:38, next run: 2021-01-05 15:30:08)
+[20210105 15:33:34 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: [never], next run: 2021-01-05 15:33:34)
+[20210105 15:33:40 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:33:34, next run: 2021-01-05 15:33:40)
+[20210105 15:33:47 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:33:41, next run: 2021-01-05 15:33:47)
+[20210105 15:33:54 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:33:48, next run: 2021-01-05 15:33:54)
+[20210105 15:34:01 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:33:55, next run: 2021-01-05 15:34:01)
+[20210105 15:34:07 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:34:01, next run: 2021-01-05 15:34:07)
+[20210105 15:34:14 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:34:08, next run: 2021-01-05 15:34:14)
+[20210105 15:34:21 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:34:15, next run: 2021-01-05 15:34:21)
+[20210105 15:34:28 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:34:22, next run: 2021-01-05 15:34:28)
+[20210105 15:34:34 INFO    ] Running job Every 0.1 minutes do lending(<FTX.client.Client object at 0x10947a5c0>) (last run: 2021-01-05 15:34:28, next run: 2021-01-05 15:34:34)
